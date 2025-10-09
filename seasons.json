@@ -1,0 +1,65 @@
+[
+  {
+    "id": "7b0e2a34-9f1c-4e3b-8d15-6c2a8f7b9d21",
+    "name": "Temporada 1",
+    "slug": "temporada-1",
+    "thumbnail": "https://album.mediaset.es/cimg/807010/2020/01/08/isla1_93db.jpg",
+    "order": 1
+  },
+  {
+    "id": "3f8a5c90-2d4e-4b7a-9c31-1a6b2e4d5f72",
+    "name": "Temporada 2",
+    "slug": "temporada-2",
+    "thumbnail": "https://album.mediaset.es/cimg/807010/2020/09/22/LaIslaDeLasTentaciones12_cc9e.jpg",
+    "order": 2
+  },
+  {
+    "id": "c1d2e3f4-5a6b-4c7d-b8e9-0a1b2c3d4e5f",
+    "name": "Temporada 3",
+    "slug": "temporada-3",
+    "thumbnail": "https://album.mediaset.es/cimg/807010/2021/01/21/laislat3_programa1_239b.jpg",
+    "order": 3
+  },
+  {
+    "id": "5e4d3c2b-1a09-4f8e-8a7b-6c5d4e3f2a10",
+    "name": "Temporada 4",
+    "slug": "temporada-4",
+    "thumbnail": "https://album.mediaset.es/cimg/807010/2021/11/09/LIDLT_1_851f.jpg",
+    "order": 4
+  },
+  {
+    "id": "9a8b7c6d-5e4f-4d3c-9b2a-1c0d2e3f4a56",
+    "name": "Temporada 5",
+    "slug": "temporada-5",
+    "thumbnail": "https://album.mediaset.es/cimg/2022/09/20/lidlt5-progra1_9bcd.jpeg",
+    "order": 5
+  },
+  {
+    "id": "2b3c4d5e-6f70-49a1-8c2d-3e4f5a6b7c80",
+    "name": "Temporada 6",
+    "slug": "temporada-6",
+    "thumbnail": "https://album.mediaset.es/cimg/2023/01/24/programa1_fb7e.jpeg",
+    "order": 6
+  },
+  {
+    "id": "0f1e2d3c-4b5a-4c6d-8e9f-a1b2c3d4e5f6",
+    "name": "Temporada 7",
+    "slug": "temporada-7",
+    "thumbnail": "https://album.mediaset.es/cimg/2024/01/09/programa-1_da39.jpg",
+    "order": 7
+  },
+  {
+    "id": "d2e3f4a5-b6c7-4d8e-9fab-1c2d3e4f5a6b",
+    "name": "Temporada 8",
+    "slug": "temporada-8",
+    "thumbnail": "https://album.mediaset.es/cimg/2025/01/03/lidlt-1plus_da39.jpg",
+    "order": 8
+  },
+  {
+    "id": "a244d8ae-36e6-4838-bf38-e221259d3f80",
+    "name": "Temporada 9",
+    "slug": "temporada-9",
+    "thumbnail": "https://album.mediaset.es/eimg/2025/10/07/elcasting-1-16-9-aspect-ratio-default-0_da39.jpg",
+    "order": 9
+  }
+]

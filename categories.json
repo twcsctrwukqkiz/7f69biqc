@@ -1,0 +1,20 @@
+[
+  {
+    "id": "f197fb2f-abab-4d42-aa76-4992702061f8",
+    "name": "Programas",
+    "slug": "programas",
+    "order": 1
+  },
+  {
+    "id": "dcb80072-17f1-47fd-8844-757a7c48336f",
+    "name": "Debates",
+    "slug": "debates",
+    "order": 2
+  },
+  {
+    "id": "7e179966-ca20-45d9-bd21-5280b846ee2a",
+    "name": "Otros",
+    "slug": "otros",
+    "order": 3
+  }
+]
