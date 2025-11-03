@@ -2549,31 +2549,6 @@
    },
    {
       "id":"1e04699b-8816-4834-8c9b-18f50c49be5c",
-      "title":"https://vbd.mediaset.es/orivod/vod/bitmovin/a0/5a/a05aa603-5440-482a-81a6-12c895c506b7/main.ism/picky.m3u8",
-      "description":"P1 - El despertar de la tentación ha comenzado",
-      "thumbnail":"https://album.mediaset.es/cimg/2025/11/03/lidlt-t9-01_da39.jpg",
-      "duration":null,
-      "episodeNumber":"Juanpi y Sandra, Gilberty Claudia, Lorenzo y Nieves, Rodri y Helena, y Darío y Almudena conforman las cinco parejas que en esta novena edición de \"La isla de las tentaciones' lucharán por demostrar que su amor está por encima de todo. El primer contacto con sus tentadores y tentadoras puede cambiarlo todo.",
-      "seasonId":"a244d8ae-36e6-4838-bf38-e221259d3f80",
-      "categoryIds":[
-         null
-      ],
-      "mediasetId":"MDSVOD20251103_10027",
-      "isVip":false,
-      "releaseDate":null,
-      "sources":[
-         {
-            "id":"de27c92a-7bcb-44b2-aee4-c3d6dedc5ba4",
-            "label":"Principal",
-            "type":"hls",
-            "url":"MDSVOD20251103_10027",
-            "isVip":false,
-            "quality":"1080p"
-         }
-      ]
-   },
-   {
-      "id":"1e04699b-8816-4834-8c9b-18f50c49be5c",
       "title":"P1 - El despertar de la tentación ha comenzado",
       "description":"Juanpi y Sandra, Gilberty Claudia, Lorenzo y Nieves, Rodri y Helena, y Darío y Almudena conforman las cinco parejas que en esta novena edición de \"La isla de las tentaciones' lucharán por demostrar que su amor está por encima de todo. El primer contacto con sus tentadores y tentadoras puede cambiarlo todo.",
       "thumbnail":"https://album.mediaset.es/cimg/2025/11/03/lidlt-t9-01_da39.jpg",
