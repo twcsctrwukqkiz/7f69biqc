@@ -2592,7 +2592,7 @@
             "label":"Principal",
             "type":"hls",
             "url":"https://streamable.com/l/q9z1fh/mp4.mp4",
-            "isVip":true,
+            "isVip":false,
             "quality":"1080p"
          }
       ]
