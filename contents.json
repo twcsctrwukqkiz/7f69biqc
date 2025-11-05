@@ -2486,6 +2486,8 @@
     "mediasetId": "MDSVOD20251014_10004",
     "isVip": false,
     "releaseDate": null,
+    "drmKey1": "91e3487d06aa49b09f105cba9d9f1017",
+    "drmKey2": "035e8e18b882eaf0fa99e034b64234c2",
     "sources": [
       {
         "id": "9208c244-7b37-46e8-8866-371ade9b55d2",
