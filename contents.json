@@ -2511,6 +2511,8 @@
     "mediasetId": "MDSVOD20251007_10034",
     "isVip": false,
     "releaseDate": null,
+    "drmKey1": "b16912b23301461e85414d042802c35e",
+    "drmKey2": "172ebdf490d1cd2b0a1ccff9d8b07764",
     "sources": [
       {
         "id": "17e8e5e4-a959-4cdb-a990-203132aa536c",
