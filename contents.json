@@ -89,7 +89,7 @@
             "label":"Principal",
             "type":"hls",
             "url":"//ok.ru/videoembed/10180720462486",
-            "isVip":false,
+            "isVip":true,
             "quality":"1080p"
          },
          {
