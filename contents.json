@@ -17,11 +17,11 @@
       "drmKey2":"9e01fb534f7833b74f330ffdbca7deb2",
       "sources":[
         {
-            "id":"fc10f534-9f24-468c-9540-8a1c79c94e05",
+            "id":"fc10f534-9f24-468c-9540-8a1c79c94e06",
             "label":"Principal",
             "type":"hls",
             "url":"//ok.ru/videoembed/10180391078550",
-            "isVip":true,
+            "isVip": false,
             "quality":"1080p"
          },
          {
@@ -52,11 +52,11 @@
       "drmKey2":"575cb35f7f4fc5ae5d3f0321f679448b",
       "sources":[
         {
-            "id":"fc10f534-9f24-468c-9540-8a1c79c94e05",
+            "id":"fc10f534-9f24-468c-9540-8a1c79c94e09",
             "label":"Principal",
             "type":"hls",
             "url":"//ok.ru/videoembed/10180652436118",
-            "isVip":true,
+            "isVip": false,
             "quality":"1080p"
          },
          {
@@ -85,11 +85,11 @@
       "releaseDate":null,
       "sources":[
         {
-            "id":"fc10f534-9f24-468c-9540-8a1c79c94e05",
+            "id":"fc10f534-9f24-468c-9540-8a1c79c94e00",
             "label":"Principal",
             "type":"hls",
             "url":"//ok.ru/videoembed/10180720462486",
-            "isVip":true,
+            "isVip":false,
             "quality":"1080p"
          },
          {
