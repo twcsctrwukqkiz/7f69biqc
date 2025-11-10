@@ -41,6 +41,14 @@
             "quality":"1080p"
          },
          {
+            "id":"17d6c3a9-cd2d-4fe6-86ca-4611a68c9749",
+            "label":"",
+            "type":"hls",
+            "url":"//ok.ru/videoembed/10182894553750",
+            "isVip": false,
+            "quality":"1080p"
+         },
+         {
             "id":"fc10f534-9f24-468c-9540-8a1c79c94e05",
             "label":"Principal",
             "type":"hls",
