@@ -16,10 +16,18 @@
       "drmKey1":"2ddeab4e324d42e99503a92e5449e843",
       "drmKey2":"9e01fb534f7833b74f330ffdbca7deb2",
       "sources":[
+         {
+            "id":"4562ede0-a53e-4278-8774-88670e4e76d4",
+            "label":"",
+            "type":"mp4",
+            "url":"https://streamable.com/l/aq78tl/mp4.mp4",
+            "isVip": false,
+            "quality":"1080p"
+         },
         {
             "id":"2ec1d576-b762-4179-b006-d0ad83e26cc7",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10180391078550",
             "isVip": false,
             "quality":"1080p"
@@ -27,7 +35,7 @@
          {
             "id":"50e77322-bd12-41be-95b5-7be87d5631ee",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10182863817366",
             "isVip": false,
             "quality":"1080p"
@@ -35,7 +43,7 @@
          {
             "id":"0c7675f5-d55d-4da6-b6cd-3d4aaf9d4f9a",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10182871878294",
             "isVip": false,
             "quality":"1080p"
@@ -43,7 +51,7 @@
          {
             "id":"17d6c3a9-cd2d-4fe6-86ca-4611a68c9749",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10182928241046",
             "isVip": false,
             "quality":"1080p"
@@ -51,7 +59,7 @@
          {
             "id":"4ac1fbac-3f6c-465e-b9fa-f3b0fe910518",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10182931255702",
             "isVip": false,
             "quality":"1080p"
@@ -59,7 +67,7 @@
          {
             "id":"4f021457-893d-45cc-979c-71075e2f456b",
             "label":"",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10182931452310",
             "isVip": false,
             "quality":"1080p"
@@ -94,7 +102,7 @@
         {
             "id":"fc10f534-9f24-468c-9540-8a1c79c94e09",
             "label":"Principal",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10180652436118",
             "isVip": false,
             "quality":"1080p"
@@ -127,7 +135,7 @@
         {
             "id":"fc10f534-9f24-468c-9540-8a1c79c94e00",
             "label":"Principal",
-            "type":"hls",
+            "type":"iframe",
             "url":"//ok.ru/videoembed/10180720462486",
             "isVip": false,
             "quality":"1080p"
