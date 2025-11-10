@@ -44,7 +44,23 @@
             "id":"17d6c3a9-cd2d-4fe6-86ca-4611a68c9749",
             "label":"",
             "type":"hls",
-            "url":"//ok.ru/videoembed/10182894553750",
+            "url":"//ok.ru/videoembed/10182928241046",
+            "isVip": false,
+            "quality":"1080p"
+         },
+         {
+            "id":"4ac1fbac-3f6c-465e-b9fa-f3b0fe910518",
+            "label":"",
+            "type":"hls",
+            "url":"//ok.ru/videoembed/10182931255702",
+            "isVip": false,
+            "quality":"1080p"
+         },
+         {
+            "id":"4f021457-893d-45cc-979c-71075e2f456b",
+            "label":"",
+            "type":"hls",
+            "url":"//ok.ru/videoembed/10182931452310",
             "isVip": false,
             "quality":"1080p"
          },
