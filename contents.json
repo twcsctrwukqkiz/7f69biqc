@@ -17,10 +17,18 @@
       "drmKey2":"9e01fb534f7833b74f330ffdbca7deb2",
       "sources":[
         {
-            "id":"fc10f534-9f24-468c-9540-8a1c79c94e06",
-            "label":"Principal",
+            "id":"2ec1d576-b762-4179-b006-d0ad83e26cc7",
+            "label":"",
             "type":"hls",
             "url":"//ok.ru/videoembed/10180391078550",
+            "isVip": false,
+            "quality":"1080p"
+         },
+         {
+            "id":"50e77322-bd12-41be-95b5-7be87d5631ee",
+            "label":"",
+            "type":"hls",
+            "url":"//ok.ru/videoembed/10182863817366",
             "isVip": false,
             "quality":"1080p"
          },
