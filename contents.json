@@ -175,39 +175,6 @@
       "episodeNumber":4,
       "seasonId":"a244d8ae-36e6-4838-bf38-e221259d3f80",
       "categoryIds":[
-         "f197fb2f-abab-4d42-aa76-4992702061f8"
-      ],
-      "mediasetId":"MDSVOD20251110_10021",
-      "isVip":false,
-      "releaseDate":null,
-      "sources":[
-         {
-            "id":"e7ad298f-30cb-48d2-8c53-f647978611d5",
-            "label":"",
-            "type":"iframe",
-            "url":"https://playcuatro.website/?video=hls_url",
-            "isVip":false,
-            "quality":"1080p"
-         },
-         {
-            "id":"f664ced1-0636-4342-89cd-bbafcaf9ab11",
-            "label":"Principal",
-            "type":"hls",
-            "url":"https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/2f/96/2f96474f-c3c1-40da-b3ab-6bcd90490966/main.ism/picky.m3u8",
-            "isVip":true,
-            "quality":"1080p"
-         }
-      ]
-   },
-   {
-      "id":"5c6f16da-84db-4a40-8614-b979f760e860",
-      "title":"P4 - La primera expulsión disciplinaria",
-      "description":"Tras lo sucedido en la ceremonia de collares, serán los propios protagonistas quienes decidan qué pareja abandona precipitadamente la experiencia. Previamente, los chicos verán imágenes de sus novias y la luz de la tentación volverá a hacer acto de presencia.",
-      "thumbnail":"https://album.mediaset.es/cimg/2025/11/10/lidlt-t9-04_da39.jpg",
-      "duration":null,
-      "episodeNumber":4,
-      "seasonId":"a244d8ae-36e6-4838-bf38-e221259d3f80",
-      "categoryIds":[
          "7e179966-ca20-45d9-bd21-5280b846ee2a"
       ],
       "mediasetId":"MDSVOD20251110_10021",
