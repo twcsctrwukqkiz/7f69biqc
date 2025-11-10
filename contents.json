@@ -76,7 +76,7 @@
             "id":"fc10f534-9f24-468c-9540-8a1c79c94e05",
             "label":"Principal",
             "type":"hls",
-            "url":"https://vbd.mediaset.es/orivod/vod/bitmovin/a0/5a/a05aa603-5440-482a-81a6-12c895c506b7/main.ism/picky.m3u8",
+            "url":"https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/a0/5a/a05aa603-5440-482a-81a6-12c895c506b7/main.ism/picky.m3u8",
             "isVip":true,
             "quality":"1080p"
          }
@@ -119,7 +119,7 @@
             "id":"a7858615-b9c9-4d22-ab5c-a0e57639e590",
             "label":"Principal",
             "type":"hls",
-            "url":"https://vbd.mediaset.es/orivod/vod/bitmovin/07/63/076316c9-aa0f-4cbe-b861-69f9f9bcefd2/main.ism/picky.m3u8",
+            "url":"https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/07/63/076316c9-aa0f-4cbe-b861-69f9f9bcefd2/main.ism/picky.m3u8",
             "isVip":true,
             "quality":"1080p"
          }
@@ -160,7 +160,7 @@
             "id":"6ff21f45-362c-4b24-bd78-114dfb080c72",
             "label":"Principal",
             "type":"hls",
-            "url":"https://vbd.mediaset.es/orivod/vod/bitmovin/97/f9/97f9c6d7-c6f8-4e06-bbc3-02fe61e41ae9/main.ism/picky.m3u8",
+            "url":"https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/97/f9/97f9c6d7-c6f8-4e06-bbc3-02fe61e41ae9/main.ism/picky.m3u8",
             "isVip":true,
             "quality":"1080p"
          }
