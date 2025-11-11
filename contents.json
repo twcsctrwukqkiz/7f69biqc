@@ -193,7 +193,7 @@
             "id":"79db169d-33ee-428f-b285-b5e377fc0485",
             "label":"",
             "type":"iframe",
-            "url":"https://playcuatro.website/?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/2f/96/2f96474f-c3c1-40da-b3ab-6bcd90490966/main.ism/picky.m3u8",
+            "url":"https://cuatro.es-mad-1.linodeobjects.com/?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/2f/96/2f96474f-c3c1-40da-b3ab-6bcd90490966/main.ism/picky.m3u8",
             "isVip":false,
             "quality":"1080p"
          },
@@ -209,7 +209,7 @@
    },
    {
       "id":"fcf6ed73-748c-4c12-a480-9a02764ae218",
-      "title":"P5 - Claudia cae en la polla de Gerard",
+      "title":"P5 - Claudia cae en la tentación de Gerard",
       "description":"Después de intentar controlar sus impulsos durante un tiempo, Claudia ha sucumbido a su deseo por Gerard y ha caído en la tentación en un momento en que varios acercamientos están empezando a ser muy peligrosos.",
       "thumbnail":"https://album.mediaset.es/cimg/2025/11/11/lidlt-t9-05_da39.jpg",
       "duration":null,
@@ -222,6 +222,14 @@
       "isVip":false,
       "releaseDate":null,
       "sources":[
+         {
+            "id":"3996cfe0-ddee-40f5-b088-b8f1d1c73e8c",
+            "label":"",
+            "type":"mp4",
+            "url":"https://streamable.com/l/dptjjh/mp4.mp4",
+            "isVip":true,
+            "quality":"1080p"
+         },
          {
             "id":"3996cfe0-ddee-40f5-b088-b8f1d1c73e8c",
             "label":"",
