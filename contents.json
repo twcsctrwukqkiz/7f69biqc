@@ -288,5 +288,46 @@
         "quality": "1080p"
       }
     ]
+  },
+   {
+    "id": "9bb0e8c4-3c82-4539-b7cb-42988749edb6",
+    "title": "Debate 1 - La primera infidelidad de un chicoa",
+    "description": "",
+    "thumbnail": "https://album.mediaset.es/eimg/2025/11/14/eldebatedelastentaciones1-16-9-aspect-ratio-default-0_da39.jpg",
+    "duration": null,
+    "episodeNumber": 6,
+    "seasonId": "a244d8ae-36e6-4838-bf38-e221259d3f80",
+    "categoryIds": [
+      "7e179966-ca20-45d9-bd21-5280b846ee2a"
+    ],
+    "mediasetId": "MDSVOD20251114_10020",
+    "isVip": false,
+    "releaseDate": null,
+    "sources": [
+      {
+        "id": "2a6a6491-8041-45a0-8e29-5eb765263cb4",
+        "label": "",
+        "type": "mp4",
+        "url": "https://streamable.com/l/u2o9jg/mp4.mp4",
+        "isVip": true,
+        "quality": "1080p"
+      },
+      {
+        "id": "24be95da-ebaa-4b61-b34a-422233a40c59",
+        "label": "",
+        "type": "iframe",
+        "url": "https://cuatro.es-mad-1.linodeobjects.com/index.html?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/ed/10/ed1034d5-ebcb-4d82-8546-ed90f7604e7b/main.ism/picky.m3u8",
+        "isVip": false,
+        "quality": "1080p"
+      },
+      {
+        "id": "d51cef50-1ffe-48b1-828e-9c38676766c8",
+        "label": "Principal",
+        "type": "hls",
+        "url": "https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/ed/10/ed1034d5-ebcb-4d82-8546-ed90f7604e7b/main.ism/picky.m3u8",
+        "isVip": true,
+        "quality": "1080p"
+      }
+    ]
   }
 ]
