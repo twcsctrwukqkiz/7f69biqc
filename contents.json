@@ -193,7 +193,7 @@
         "id": "79db169d-33ee-428f-b285-b5e377fc0485",
         "label": "",
         "type": "iframe",
-        "url": "https://cuatro.es-mad-1.linodeobjects.com/?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/2f/96/2f96474f-c3c1-40da-b3ab-6bcd90490966/main.ism/picky.m3u8",
+        "url": "https://cuatro.es-mad-1.linodeobjects.com/index.html?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/2f/96/2f96474f-c3c1-40da-b3ab-6bcd90490966/main.ism/picky.m3u8",
         "isVip": false,
         "quality": "1080p"
       },
@@ -419,6 +419,14 @@
     "isVip": false,
     "releaseDate": null,
     "sources": [
+      {
+        "id": "b6748fde-96c9-4831-8f60-dd6eccc05edf",
+        "label": "",
+        "type": "mp4",
+        "url": "https://streamable.com/l/2h5rj7/mp4.mp4",
+        "isVip": false,
+        "quality": "1080p"
+      },
       {
         "id": "fba055fe-fa71-4a75-bceb-afbc3b4c71e3",
         "label": "",
