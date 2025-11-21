@@ -444,5 +444,38 @@
         "quality": "1080p"
       }
     ]
+  },
+  {
+    "id": "3ae12bc3-63c5-47e2-accf-ddb18e980674",
+    "title": "Debate 2 - Los cinco protagonistas viven una hoguera en el plató",
+    "description": "Gilbert, Juanpi, Darío, Rodri y Álvaro, los chicos de esta edición, se sientan en el plató del debate para responder a las críticas de los colaboradores y enfrentarse a imágenes que no han visto hasta el momento. Nuestras protagonistas viven una particular hoguera en el debate de las tentaciones. Además, el debate muestra imágenes exclusivas de la hoguera de las chicas y un avance en primicia del próximo programa.",
+    "thumbnail": "https://album.mediaset.es/eimg/2025/11/21/debate-tentaciones-2-16-9-aspect-ratio-default-0_da39.jpg",
+    "duration": null,
+    "episodeNumber": 11,
+    "seasonId": "a244d8ae-36e6-4838-bf38-e221259d3f80",
+    "categoryIds": [
+      "dcb80072-17f1-47fd-8844-757a7c48336f"
+    ],
+    "mediasetId": "MDSVOD20251121_10038",
+    "isVip": false,
+    "releaseDate": null,
+    "sources": [
+      {
+        "id": "714ceb6c-9ac9-4228-a198-7c409146a97f",
+        "label": "",
+        "type": "mp4",
+        "url": "https://streamable.com/l/2k3z5n/mp4.mp4",
+        "isVip": false,
+        "quality": "1080p"
+      },
+      {
+        "id": "83c39623-d182-4cc5-a847-a0c28c270fa3",
+        "label": "Principal",
+        "type": "hls",
+        "url": "https://vbd.mediaset.es/orivod/vod/bitmovin/13/2b/132b98c7-1e49-4ade-903b-9bdce7e37f4e/main.ism/picky.m3u8",
+        "isVip": true,
+        "quality": "1080p"
+      }
+    ]
   }
 ]
