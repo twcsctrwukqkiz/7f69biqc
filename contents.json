@@ -520,39 +520,6 @@
     "episodeNumber": 14,
     "seasonId": "a244d8ae-36e6-4838-bf38-e221259d3f80",
     "categoryIds": [
-      "f197fb2f-abab-4d42-aa76-4992702061f8"
-    ],
-    "mediasetId": "MDSVOD20251125_10110",
-    "isVip": false,
-    "releaseDate": null,
-    "sources": [
-      {
-        "id": "3623e512-3be8-4475-9c6d-58b0549b26ad",
-        "label": "",
-        "type": "iframe",
-        "url": "https://4ka9p2bd287cmjmediasetsvevu37td6e3wvf.netlify.app/index.html?video=https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/c4/17/c4176f28-0680-416e-b86b-01c66181fb9d/main.ism/picky.m3u8",
-        "isVip": true,
-        "quality": "1080p"
-      },
-      {
-        "id": "b3db178b-09ed-484f-885d-e5ab42f2767f",
-        "label": "Principal",
-        "type": "hls",
-        "url": "https://vbd.mediasetinfinity.es/orivod/vod/bitmovin/c4/17/c4176f28-0680-416e-b86b-01c66181fb9d/main.ism/picky.m3u8",
-        "isVip": true,
-        "quality": "1080p"
-      }
-    ]
-  },
-  {
-    "id": "e0ff99d8-936a-4a8c-bad5-39f309dcb172",
-    "title": "P11 - La hoguera de confrontación de Gilbert y Claudia",
-    "description": "Tras la decisión sin precedentes de los chicos de convocar una hoguera de confrontación entre su compañero Gilbert y la novia de éste, Claudia, ambos tienen la oportunidad de verse las caras ante Sandra Barneda y explicar sus comportamientos. Ella no sabe si acudirá a la cita y explica sus dudas al resto de chicas.",
-    "thumbnail": "https://album.mediaset.es/cimg/2025/11/25/lidlt-11_da39.jpg",
-    "duration": null,
-    "episodeNumber": 14,
-    "seasonId": "a244d8ae-36e6-4838-bf38-e221259d3f80",
-    "categoryIds": [
       "7e179966-ca20-45d9-bd21-5280b846ee2a"
     ],
     "mediasetId": "MDSVOD20251125_10110",
