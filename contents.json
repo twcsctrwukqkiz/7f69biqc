@@ -559,10 +559,18 @@
     "isVip": false,
     "releaseDate": null,
     "sources": [
+        {
+        "id": "2ec1d576-b762-4179-b006-d0ad83e26cc7",
+        "label": "",
+        "type": "iframe",
+        "url": "//ok.ru/videoembed/10294490892950",
+        "isVip": false,
+        "quality": "1080p"
+      },
       {
         "id": "0e9a43bb-3f48-4187-bd75-de2f8f253ea3",
         "label": "",
-        "type": "iframe",
+        "type": "mp4",
         "url": "//ok.ru/videoembed/10294490892950?nochat=1",
         "isVip": false,
         "quality": "1080p"
