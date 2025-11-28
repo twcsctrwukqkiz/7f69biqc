@@ -584,5 +584,38 @@
         "quality": "1080p"
       }
     ]
+  },
+  {
+    "id": "de4afab2-adc4-4df1-8ed2-d81ac182902b",
+    "title": "Debate 3 - Claudia se enfrenta a imágenes inéditas de Gerard y Almudena",
+    "description": "Tras su semana más dura, Claudia se enfrenta a nuevas imágenes inéditas en plató junto a Sandra Barneda de lo que ocurrió entre Gerard y Almudena mientras ella estaba en la hoguera de confrontación con Gilbert. Además, Gabriella Hahlingag se vuelve a ver cara a cara por primera vez con Manuel González desde su sonada ruptura y vemos un avance de la hoguera de las consecuencias de Álvaro y Mayeli.",
+    "thumbnail": "https://album.mediaset.es/eimg/2025/11/28/eldebatedelastentaciones3-16-9-aspect-ratio-default-0_da39.jpg",
+    "duration": null,
+    "episodeNumber": 15,
+    "seasonId": "a244d8ae-36e6-4838-bf38-e221259d3f80",
+    "categoryIds": [
+      "dcb80072-17f1-47fd-8844-757a7c48336f"
+    ],
+    "mediasetId": "MDSVOD20251128_10054",
+    "isVip": false,
+    "releaseDate": null,
+    "sources": [
+      {
+        "id": "912dd1f4-379a-4af1-80a7-2e1d931667ff",
+        "label": "",
+        "type": "mp4",
+        "url": "https://streamable.com/l/2k3z5n/mp4.mp4",
+        "isVip": true,
+        "quality": "1080p"
+      },
+      {
+        "id": "1dcd757a-04a4-4827-9e24-792dfe13ff4e",
+        "label": "Principal",
+        "type": "hls",
+        "url": "https://vbd.mediaset.es/orivod/vod/bitmovin/c8/2e/c82ec9ea-c4a9-4e7d-ab8c-aa54b12c6df9/main.ism/picky.m3u8",
+        "isVip": true,
+        "quality": "1080p"
+      }
+    ]
   }
 ]
